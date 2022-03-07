@@ -12,6 +12,7 @@ design:
   background:
     image: ""
     color: "#0f255c"
+    text_color_light: true
 hero_media: tvblogo.png
 ---
 <br>
@@ -21,3 +22,5 @@ Föreningen **Turf Västerbotten** är en ideell förening som är religiöst oc
 **Turf Västerbotten** grundades den 4 maj 2019.
 
 Föreningen ordnar bland annat de stående eventen *Västerbotten Winter Classic* och *Västerbotten Midnight Classic*, samt regelbundna turf-träffar.
+
+![](tvblogo_crop.png)
