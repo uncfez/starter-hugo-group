@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: Välkommen
+widget_id: welcome
 headless: true
 weight: 10
 title: Turf Västerbotten
@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: ""
+    image: tvblogo.png
 hero_media: tvblogo.png
 ---
 <br>
