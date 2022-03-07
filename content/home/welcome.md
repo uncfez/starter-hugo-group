@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: welcome
+widget_id: about
 headless: true
 weight: 10
 title: Turf Västerbotten
