@@ -15,6 +15,8 @@ hero_media: tvblogo.png
 ---
 <br>
 
-Föreningen **Turf Västerbotten** är en ideell förening som är religiöst och politiskt obunden. Föreningens syfte är att organisera och sammanhålla medlemmar som utövar sporten Turf inom Västerbottens län (Region Västerbotten). **Turf Västerbotten** grundades den 4 maj 2019.
+Föreningen **Turf Västerbotten** är en ideell förening som är religiöst och politiskt obunden. Föreningens syfte är att organisera och sammanhålla medlemmar som utövar sporten Turf inom Västerbottens län (Region Västerbotten). 
+<!–more–>
+**Turf Västerbotten** grundades den 4 maj 2019.
 
 Föreningen ordnar bland annat de stående eventen *Västerbotten Winter Classic* och *Västerbotten Midnight Classic*, samt regelbundna turf-träffar.
