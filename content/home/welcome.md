@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: tvblogo.png
+    image: ""
 hero_media: tvblogo.png
 ---
 <br>
