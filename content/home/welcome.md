@@ -11,7 +11,7 @@ design:
   css_class: null
   background:
     image: ""
-hero_media: welcome.jpg
+hero_media: tvblogo.png
 ---
 <br>
 
