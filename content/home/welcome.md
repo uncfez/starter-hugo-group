@@ -13,7 +13,7 @@ design:
     image: ""
     color: "#0f255c"
     text_color_light: true
-hero_media: tvblogo.png
+hero_media: tvblogo_crop.png
 ---
 <br>
 
