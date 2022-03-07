@@ -11,6 +11,7 @@ design:
   css_class: null
   background:
     image: ""
+    color: "#0f255c"
 hero_media: tvblogo.png
 ---
 <br>
