@@ -4,6 +4,8 @@ date: 2022-01-22T22:02:34.405Z
 summary: ""
 draft: false
 featured: true
+authors:
+  - Ninetail
 tags:
   - umeå
   - turfträff
