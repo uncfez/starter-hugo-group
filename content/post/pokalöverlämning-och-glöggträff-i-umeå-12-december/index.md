@@ -1,8 +1,13 @@
 ---
 title: Pokalöverlämning och glöggträff i Umeå 12 december
 date: 2022-01-22T22:02:34.405Z
+summary: Efter en höst med fortsatta covidrestriktioner träffades ett gäng
+  turfare i snö och kyla för att hylla de senaste pokalvinnarna, Bont,
+  Cykeltalibanen och Pike, och dricka glögg och äta pepparkakor. Då Bont jobbade
+  och Pike var på resa var det bara Cykeltalibanen som var på plats för
+  överlämningen. Samtliga vinnares namn finns dock med på vandringspokalen.
 draft: false
-featured: false
+featured: true
 tags:
   - umeå;turfträff
 image:
