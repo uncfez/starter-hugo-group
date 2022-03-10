@@ -1,5 +1,5 @@
 ---
-title: Pokalöverlämning och glöggträff i Umeå 12 december
+title: "EDIT: Pokalöverlämning och glöggträff i Umeå 12 december"
 date: 2022-01-22T22:02:34.405Z
 summary: ""
 draft: false
