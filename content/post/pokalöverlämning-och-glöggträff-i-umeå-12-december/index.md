@@ -5,7 +5,8 @@ summary: ""
 draft: false
 featured: true
 tags:
-  - umeå;turfträff
+  - umeå
+  - turfträff
 image:
   filename: featured
   focal_point: Smart
