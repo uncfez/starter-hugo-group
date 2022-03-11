@@ -1,6 +1,8 @@
 ---
 title: Dags att förnya medlemskapet för 2022
 date: 2022-02-20
+authors:
+  - Ninetail
 tags:
   - foreningsinformation
 categories:
