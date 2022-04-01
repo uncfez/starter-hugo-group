@@ -9,6 +9,8 @@ tags:
   - "föreningsinformation"
   - "turfträff"
   - "umeå"
+image:
+  caption: "Foto: WombaWomba"
 ---
 
 2020 har sprakat igång, likaså årets första turf-omgång. På torsdag 9 januari hålls årets första turfträff och fjolårets sista regionsmästare, Ghost63\_Ume, firas. Vi ses på Restaurang Maria, Umeå (närmsta turf-zon [CloseLivs](https://turfgame.com/map/CloseLIvs)). Möjlighet finns att få sneak-peak om vad som är på gång inom föreningen (all information kommer givetvis att publiceras här på hemsidan).
@@ -17,5 +19,3 @@ Styrelsen vill passa på att påminna om att boka in **_årsmötet_** i kalender
 
 Med önskan om ett gott nytt turf-år!
 
-image:
-  caption: "Foto: WombaWomba"
